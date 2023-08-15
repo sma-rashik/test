@@ -1,0 +1,7 @@
+{{#user}
+
+Name: S M ABDUL RASHIK
+Skills: HTML, CSS, JS, Typescript, React.js, Mongo DB, Node.js, Express.js, Tailwind CSS, Bootstrap, Next.js, Python
+Email:smarashik00@gmail.com
+
+{{/user}}
